@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"paquete1","c":"OperacionsNumeriques","l":"esPrimo(int)"},{"p":"paquete1","c":"OperacionsNumeriques","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"paquete1","c":"OperacionsNumeriques","l":"OperacionsNumeriques()","u":"%3Cinit%3E()"}];updateSearchResults();
